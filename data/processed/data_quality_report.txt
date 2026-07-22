@@ -1,0 +1,8 @@
+DATA QUALITY REPORT
+====================
+Original rows:               35,040
+Sensor-glitch rows removed:  30
+Missing values (before):     150
+Missing values (after):      0
+Final clean dataset:         35,010 rows
+Data retained:                99.9%

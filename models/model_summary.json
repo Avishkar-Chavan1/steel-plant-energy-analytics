@@ -1,0 +1,13 @@
+{
+  "model": "RandomForestClassifier",
+  "accuracy": 0.8396,
+  "rows_used": 35010,
+  "features": [
+    "Usage_kWh",
+    "Lagging_Current_Reactive_Power_kVarh",
+    "Leading_Current_Reactive_Power_kVarh",
+    "CO2tCO2",
+    "Lagging_Current_Power_Factor",
+    "Leading_Current_Power_Factor"
+  ]
+}
