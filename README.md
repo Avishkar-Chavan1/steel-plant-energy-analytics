@@ -45,12 +45,7 @@ generate_sample_data.py  →  clean_data.py  →  eda_and_model.py  →  Power B
 |---|---|
 | ![feature importance](visuals/feature_importance.png) | ![confusion matrix](visuals/confusion_matrix.png) |
 
-## Setup
 
-```bash
-git clone <your-repo-url>
-cd steel-energy-project
-pip install -r requirements.txt
 
 # Option A: use the built-in synthetic generator (works immediately)
 python src/generate_sample_data.py
